@@ -1,25 +1,25 @@
 {
     "bot": {
         "prefix": "!",
-        "id": "BOT_ID",
-        "secret": "BOT_SECRET",
-        "token": "BOT_TOKEN"
+        "id": "917819641554952262",
+        "secret": "T_-Y3KEty5DB_6K2_yHT2CDbHXIQgNB7",
+        "token": "OTE3ODE5NjQxNTU0OTUyMjYy.Ya-QJg.au3WbazMDkomzufWvg0GETJAE1E"
     },
     "dashboard": {
         "port": 3000,
         "url": "http://localhost:3000",
         "callback": "http://localhost:3000/callback",
         "discord_server_ID": "DISCORD_SERVER_ID",
-        "ownerids": ["OWNER1", "OWNER2"],
+        "ownerids": ["790681602245656618", "790681602245656618"],
         "ownershow": false,
         "owners": [
             {
-                "id": "OWNER1",
-                "desc": "OWNER DESCRIPTION"
+                "id": "790681602245656618",
+                "desc": "790681602245656618"
             },
             {
-                "id": "OWNER2",
-                "desc": "OWNER2 DESCRIPTION"
+                "id": "790681602245656618",
+                "desc": "790681602245656618"
             }
         ],
         "arc": {
